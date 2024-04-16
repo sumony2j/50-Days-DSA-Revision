@@ -1,2 +1,3 @@
-# 50-Days-DSA-Revisison
-50 Days revision of solving problems on Data Structure &amp; Algorithm
+# 50-Days-DSA-Revision
+
+Today I will start a new challenge #100DaysOfCode, here I will solve DSA questions  on daily basis and upload the solutions here regularly. So, let's get started 😃
