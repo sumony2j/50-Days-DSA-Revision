@@ -12,7 +12,7 @@ def permutation(arr):
             res.append(arr[:])
             return
         for k in range(index,size):
-            arr[index],arr[k] = arr[index],arr[k]
+            arr[index],arr[k] = arr[k],arr[index]
             calculate(index+1)
             arr[index],arr[k] = arr[k],arr[index]
     calculate(0)
